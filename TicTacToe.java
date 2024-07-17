@@ -1,7 +1,3 @@
-//Name: Royce Lim
-//Due date: 2/20
-//Title: TicTacToe
-//Description: Allows 2 people to play Tic Tac Toe
 package hw3_1;
 import java.util.*;
 public class TicTacToe {
